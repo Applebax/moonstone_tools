@@ -1,0 +1,49 @@
+{
+    "model": "moonstone_tools:moonstone_design",
+    "type": "sellable",
+    "styles": {
+        "moonstone": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_sword",
+                    "hand": "moonstone_tools:moonstone_sword_handheld"
+                }
+            },
+            {
+                "tag": "minecraft:pickaxes",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_pickaxe",
+                    "hand": "moonstone_tools:moonstone_pickaxe_handheld"
+                }
+            },
+            {
+                "tag": "minecraft:axes",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_axe",
+                    "hand": "moonstone_tools:moonstone_axe_handheld"
+                }
+            },
+            {
+                "tag": "minecraft:shovels",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_shovel",
+                    "hand": "moonstone_tools:moonstone_shovel_handheld"
+                }
+            },
+            {
+                "tag": "minecraft:hoes",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_hoe",
+                    "hand": "moonstone_tools:moonstone_hoe_handheld"
+                }
+            },
+            {
+                "item": "minecraft:flint_and_steel",
+                "assets": {
+                    "default": "moonstone_tools:moonstone_flint_and_steel"
+                }
+            }
+        ]
+    }
+}

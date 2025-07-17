@@ -1,0 +1,6 @@
+{
+    "parent": "vanity:item/handheld_item",
+    "textures": {
+        "layer0": "moonstone_tools:item/moonstone_hoe"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "moonstone_tools:item/moonstone_design"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "moonstone_tools:item/moonstone_flint_and_steel"
+    }
+}

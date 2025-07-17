@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "moonstone_tools",
+	"version": "1.0.0",
+	"environment": "*",
+	"name": "Amy's Vanities: Moonstone",
+	"description": "Give your tools a cool, bulky appearance with the Moonstone Design!",
+	"authors": [
+		"Applebax"
+	],
+	"license": "ARR",
+	"icon": "pack.png",
+	"contributors": [
+		"Chai"
+	]
+}
